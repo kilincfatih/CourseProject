@@ -1,0 +1,29 @@
+{
+    "courses":[
+        {"id":1,
+        "content":"Muhteşem Angular Kursu: Angular'ı Kolayca Öğrenin! Angular dünyasına adım atmak veya mevcut bilginizi derinleştirmek istiyorsanız, doğru yerdesiniz! Muhteşem Angular Kursu, Angular framework'ünü baştan sona kapsamlı bir şekilde öğrenmenizi sağlayacak etkileyici bir eğitim programıdır.Bu kurs, Angular'ın temellerinden başlayarak, karmaşık uygulamaları geliştirmek için gerekli olan ileri düzey tekniklere kadar sizi adım adım yönlendirecektir. Kurs boyunca pratik örnekler ve projeler üzerinde çalışarak gerçek dünya senaryolarını deneyimleyecek ve Angular uygulamalarınızı hızla geliştirebileceksiniz.",
+        "title":"Muhteşem Angular Kursu",
+        "price":69
+    },
+    {   "id":2,
+        "content":"Muhteşem Bootstrap Kursu: Modern Web Tasarımına Adım Atın! Web tasarımının önemini ve etkisini biliyor musunuz? Sektörde öne çıkmak ve profesyonel bir web tasarımcısı olmak için modern araçları ve teknolojileri kullanmayı öğrenmek gerekiyor. İşte bu noktada Muhteşem Bootstrap Kursu devreye giriyor!Muhteşem Bootstrap Kursu, Bootstrap framework'ünü baştan sona öğrenmeniz için size kapsamlı bir eğitim sunar. Bootstrap, web tasarımında hızlı ve duyarlı uygulamalar geliştirmenize olanak sağlayan popüler bir araçtır. Bu kurs sayesinde, Bootstrap'un gücünü keşfederek modern ve etkileyici web siteleri tasarlamayı öğreneceksiniz.",
+        "title":"Muhteşem Bootstrap Kursu",
+        "price":69
+    },
+    {   "id":3,
+        "content":"Muhteşem C Programlama Kursu: Temelden Uzmanlığa Adım Adım C Programlama Öğrenin!Programlamaya olan ilginizi C diliyle gerçekleştirmek mi istiyorsunuz? Sektördeki birçok yazılım geliştirme işinde temel bir rol oynayan C dilini öğrenmek sizin için büyük bir adım olacaktır. İşte bu noktada Muhteşem C Programlama Kursu devreye giriyor! Muhteşem C Programlama Kursu, C programlama dilini baştan sona öğrenmeniz için size kapsamlı bir eğitim sunar. Bu kurs sayesinde C dilinin temellerini öğrenerek programlama becerilerinizi geliştirecek ve gerçek dünya projelerinde kullanabileceğiniz kodlama bilgisine sahip olacaksınız.",
+        "title":"Muhteşem C Programlama Kursu",
+        "price":69
+    },
+    {   "id":4,
+        "content":"Muhteşem Frontend Kursu: Modern Web Geliştirmeyle Tanışın! Web geliştirme dünyasına adım atmak veya mevcut frontend becerilerinizi geliştirmek mi istiyorsunuz? Özgün ve etkileyici web siteleri oluşturmanızı sağlayacak bir eğitim arıyorsanız, doğru yerdesiniz! Muhteşem Frontend Kursu, frontend geliştirme konusunda size kapsamlı bir yolculuk sunuyor. Muhteşem Frontend Kursu, HTML, CSS ve JavaScript gibi temel web teknolojilerini baştan sona öğrenmenizi sağlayacak zengin bir içeriğe sahiptir. Kurs boyunca modern web geliştirme araçları, framework'ler ve en iyi uygulamalarla tanışacak, interaktif ve duyarlı web siteleri tasarlamayı öğreneceksiniz.",
+        "title":"Muhteşem Frontend Kursu",
+        "price":69
+    },
+    {   "id":5,
+        "content":"Muhteşem HTML Kursu: Web Dünyasına Adım Atın! Web geliştirme yolculuğunuzda temel bir adım atmak veya mevcut HTML becerilerinizi güçlendirmek mi istiyorsunuz? İşte size tam aradığınız kurs! Muhteşem HTML Kursu, HTML dilini baştan sona kapsamlı bir şekilde öğrenmenizi sağlayacak etkileyici bir eğitim programıdır. Muhteşem HTML Kursu, modern web siteleri oluşturmanız için size sağlam bir temel sunar. HTML'nin temellerini öğrenerek sayfa yapılarını oluşturmanızı, metinleri biçimlendirmenizi, resimleri eklemenizi, bağlantıları yönetmenizi ve daha fazlasını yapmanızı sağlar. Bu kurs, HTML dilinde ustalaşmanızı ve profesyonel web projeleri oluşturmanızı destekler.",
+        "title":"Muhteşem HTML Kursu",
+        "price":69
+    }
+    ]
+}
