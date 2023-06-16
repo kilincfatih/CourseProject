@@ -1,0 +1,13 @@
+2023-06-13 14:57:32.821 [warning] /home/fatih/.ssh/config: ENOENT: no such file or directory, open '/home/fatih/.ssh/config'
+2023-06-13 14:57:33.051 [info] Looking for git repository
+2023-06-13 14:57:33.051 [info] Found 0 repositories during activation
+2023-06-13 14:57:33.051 [info] Git repository found, initializing review manager and pr tree view.
+2023-06-13 14:57:33.061 [info] Registering git provider
+2023-06-13 14:57:33.061 [info] Review> Validate state in progress
+2023-06-13 14:57:33.061 [info] Review> Validating state...
+2023-06-13 14:57:33.093 [info] Found GitHub remote for folder /home/fatih
+2023-06-13 14:57:33.189 [info] Review> No matching pull request metadata found locally for current branch main
+2023-06-13 14:57:33.189 [info] Review> no matching pull request metadata found for current branch main
+2023-06-13 14:57:33.190 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-06-13 15:02:34.198 [info] Repo state for file:///home/fatih changed.
+2023-06-13 15:02:34.198 [info] Repo file:///home/fatih has already been setup.
